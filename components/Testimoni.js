@@ -69,6 +69,17 @@ const Testimoni = ({
       testimoni:
         "",
     },
+     {
+      name: kasu",
+      image: "/assets/people-3.png",
+      city: "Harrar",
+      country: " Ethiopia",
+      rating: "5",
+      hasScreenshot: true,
+      screenshotSource: 'assets/screenshots/kasu.jpeg',
+      testimoni:
+        "",
+    },
     {
       name: "Abraham",
       image: "/assets/people-3.png",
