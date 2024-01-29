@@ -54,7 +54,7 @@ const Testimoni = ({
       country: " Ethiopia",
       rating: "5",
       hasScreenshot: true,
-      screenshotSource: 'assets/screenshots/photo_2024-01-29_11-21-03.jpg',
+      screenshotSource: 'assets/screenshots/Yasub.jpeg',
       testimoni:
         "",
     },
